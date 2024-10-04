@@ -306,7 +306,7 @@ session_start();
             </div>
             <div class="row center-align">
               <div class="col s12 m12 l12">
-                <a href="#" class="link"> Developed By Heena & Bulbul</a>
+                <a href="#" class="link"> Developed By Aryan Chugh</a>
               </div>
             </div>
              <div class="row center-align">
